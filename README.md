@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Montserrat Treviño</h1>
-<h2 align="center">Aspiring Data Analyst | Turning data into insights 📊 </h2>
+<h2 align="center">Data Analyst | Turning data into insights 📊 | Python · SQL · Power BI </h2> 
 
 <!--
 **montserrattremen-glitch/montserrattremen-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 👋 Hi, I'm Montserrat Treviño
-
-### Data Analyst | Industrial Engineering Background | Python · SQL · Power BI
 
 I'm a Chemical Engineer transitioning into Data Analytics, combining my background in **industrial processes, quality, and continuous improvement** with data analysis to solve problems and support data-driven decisions.
 
