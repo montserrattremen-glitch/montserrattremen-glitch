@@ -113,26 +113,27 @@ Interactive business intelligence project focused on analyzing real estate sales
 
 ---
 
-## 🔎 EverPeak — Data Quality Analysis
+## 📊 RappiPlus — Business Data Analysis
 
-**Tools:** Python · Pandas · Data Cleaning · Exploratory Data Analysis
+**Tools:** Python · Pandas · SQL · PostgreSQL · Statistics · Power BI · Data Visialization
 
-A data quality project focused on identifying and addressing problems within a retail dataset containing approximately **2,000 orders**.
+End-to-end business analytics project focused on evaluating revenue, profitability, customer behavior, conversion, retention, and A/B testing to support data-driven business decisions.
 
 ### 🔎 What I worked on
 
-- Identified missing values and inconsistent data.
-- Detected unusual values and potential outliers.
-- Investigated data quality issues.
-- Cleaned and prepared the dataset for analysis.
-- Explored patterns and trends in the available data.
-- Documented the analytical process and conclusions.
+- Cleaned and validated orders, product catalog, and marketing datasets using Python.
+- Analyzed revenue, costs, profit, average ticket, and product performance.
+- Built a conversion funnel using SQL to identify user drop-off points.
+- Performed cohort retention analysis to evaluate user engagement over time.
+- Conducted an A/B test using a two-proportion Z-test to evaluate checkout conversion.
+- Built interactive BI dashboards to communicate business performance and detailed sales insights.
+- Translated analytical results into business insights and actionable recommendations.
 
 ### 📊 Key Skills Demonstrated
 
-`Python` · `Pandas` · `Data Cleaning` · `Data Quality` · `EDA`
+`Python` · `Pandas` · `SQL` · `PostgreSQL` · `Data Cleaning` · `Exploratory Data Analysis` · `Statistics` · `A/B Testing` · `Cohort Analysis` · `Funnel Analysis` · `Power BI` · `Data Visualization` · `Business Analysis`
 
-🔗 **[View Project →](#)**
+🔗 **[View Project →](https://tectijuanaedumx-my.sharepoint.com/:u:/g/personal/montserrat_trevino19_tectijuana_edu_mx/IQANFrhOVYe2QapcM9RFr_32AWMuCG2rICYHKcnczgaZKvA?e=9lvife)**
 
 ---
 
