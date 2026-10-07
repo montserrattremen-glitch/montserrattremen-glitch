@@ -64,25 +64,26 @@ Exploratory data analysis using Python an Pandas to identify trends and patterns
 
 ---
 
-## ⭐ Sales & Marketing Analysis — Power BI
+## 📊 Sales Performance Analysis — Power BI
 
-**Tools:** Power BI · Excel · Data Cleaning · Data Visualization
+**Tools:** Power BI · Excel · Data Cleaning · Data Visualization · Data Visualization
 
-An interactive business intelligence project focused on analyzing **sales, revenue, costs, profit, marketing spending, products, and customer behavior**.
+An interactive business intelligence project focused on analyzing **sales performance, revenue, costs, profit, customer segments and geographic performance** for Andes Retail Group across Peru, Chile and Colombia.
 
 ### 🔎 What I worked on
 
-- Cleaned and transformed multiple datasets.
-- Created business KPIs such as revenue, profit, marketing spend, and average ticket.
-- Analyzed monthly revenue and profit trends.
-- Compared performance by product and category.
-- Built an executive dashboard for business monitoring.
-- Created a detailed product/order analysis using drill-through functionality.
-- Designed visualizations to support data-driven decision-making.
+- Explored and prepared transactional sales data from 2024–2025.
+- Created business KPIs such as revenue, costs, profit, and units sold.
+- Analyzed revenue trends across months and years.
+- Compared commercial performance across countries and regions.
+- Analyzed performance by product category and customer segment.
+- Built an executive dashboard for business performance monitoring.
+- Created a detailed analysis view to explore differences, patterns, and potential business opportunities.
+- Designed visualizations and interactive elements to support data-driven decision-making.
 
 ### 📊 Key Skills Demonstrated
 
-`Data Cleaning` · `KPI Development` · `Business Analysis` · `Data Visualization` · `Power BI` · `Drill-through`
+`Data Cleaning` · `Data Transformation` · `KPI Development` · `Business Analysis` · `Data Visualization` · `Power BI` · `Dashboard Design` · `Data Storytelling`
 
 🔗 **[View Project →](#)**
 
