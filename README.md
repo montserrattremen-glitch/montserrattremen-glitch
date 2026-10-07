@@ -85,7 +85,7 @@ An interactive business intelligence project focused on analyzing **sales perfor
 
 `Data Cleaning` · `Data Transformation` · `KPI Development` · `Business Analysis` · `Data Visualization` · `Power BI` · `Dashboard Design` · `Data Storytelling`
 
-🔗 **[View Project →](#)**
+🔗 **[View Project →](https://tectijuanaedumx-my.sharepoint.com/:u:/g/personal/montserrat_trevino19_tectijuana_edu_mx/IQBL6C2Lb6giQafzCmt5SKWiAUKcT6IXEnDIbXMzGBKac0k?e=jopESq)**
 
 ---
 
