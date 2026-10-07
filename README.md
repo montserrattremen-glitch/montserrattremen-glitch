@@ -89,26 +89,27 @@ An interactive business intelligence project focused on analyzing **sales perfor
 
 ---
 
-## 📡 ConectaTel — Telecom Data Analysis
+## 🏠 Real Estate Commercial Analysis
 
-**Tools:** Python · Pandas · NumPy · Statistics · Data Visualization
+**Tools:** Power BI · DAX · Data Modeling · Data Visualization
 
-Data analysis project focused on understanding customer behavior, telecom plans, usage patterns, and business performance.
+Interactive business intelligence project focused on analyzing real estate sales, revenue, commissions, customer segments, property performance, and purchasing behavior.
 
 ### 🔎 What I worked on
 
-- Cleaned and prepared customer and usage datasets.
-- Analyzed customer behavior and service usage.
-- Compared performance between different plans.
-- Applied statistical analysis to identify relevant patterns.
-- Created visualizations to communicate findings.
-- Translated analytical results into business-oriented conclusions.
+- Cleaned and validated sales, customer, property, and date datasets.
+- Built a star schema data model for commercial analysis.
+- Created DAX measures for key business KPIs.
+- Analyzed sales performance by property type, customer segment, city, and sales channel.
+- Applied time intelligence to analyze trends and year-over-year performance.
+- Analyzed customer recurrence using cohort analysis.
+- Created an interactive Power BI dashboard to communicate business insights.
 
 ### 📊 Key Skills Demonstrated
 
-`Python` · `Pandas` · `Data Cleaning` · `Statistics` · `Exploratory Data Analysis` · `Data Visualization`
+`Power BI` · `DAX` · `Data Modeling` · `Star Schema` · `Time Intelligence` · `Cohort Analysis` · `Data Visualization` · `Business Analysis`
 
-🔗 **[View Project →](#)**
+🔗 **[View Project →](https://tectijuanaedumx-my.sharepoint.com/:u:/g/personal/montserrat_trevino19_tectijuana_edu_mx/IQCSeskJzNRdRqBo3bzlZfaOAS68IR4E0-U5enpkOeRnDyY?e=ieutgk)**
 
 ---
 
