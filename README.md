@@ -62,19 +62,6 @@ https://github.com/montserrattremen-glitch/analysis-everpeak
 
 Exploratory data analysis using Python an Pandas to identify trends and patterns in the dataset. Focused on data cleaning, handling missing values, and generatinf insights. 
 
-
-🔹 **Everpeak Analysis (Project 2)** 
-
-https://github.com/montserrattremen-glitch/analysis-everpeak1 
-
-Performed data processing and analysis to extract meaningful business insights. Applied visualization techniques to better understand the data. 
-
-🔹 **Everpeak Full Analysis (Project 3)** 
-
-https://github.com/montserrattremen-glitch/everpeak-analysis 
-
-Complete analysis workflow including data preparation, exploration, and visualization. Strengthened skills in data manipulation and interpretation.
-
 ---
 
 ## ⭐ Sales & Marketing Analysis — Power BI
