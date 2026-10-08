@@ -3,7 +3,7 @@
 
 I'm a Chemical Engineer transitioning into Data Analytics, combining my background in **industrial processes, quality, and continuous improvement** with data analysis to solve problems and support data-driven decisions.
 
-<h3 align="center">📍 Mexico | 💼 Open to Data Analyst opportunities | 🎓 TripleTen Data Analysis Student </h3>
+<h3 align="center">📍 Mexico | 💼 Open to Data Analyst opportunities </h3>
   
 ---
 
